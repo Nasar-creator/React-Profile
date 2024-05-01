@@ -1,0 +1,10 @@
+.table table{
+    border: 3px solid black ;
+    border-collapse: collapse;
+    width: 200px;
+}
+.table table td,
+.table table th{
+    border: 2px solid #ccc;
+    
+}
